@@ -1,0 +1,10 @@
+.timer-box{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 5px;
+}
+
+.timer-box p{
+    text-align: center;
+}

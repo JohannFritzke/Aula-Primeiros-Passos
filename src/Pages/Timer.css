@@ -1,0 +1,13 @@
+.timer{
+    font-family: 'Poppins', sans-serif;
+}
+
+.timer .timer-content{
+    display: flex;
+    justify-content: center;
+}
+
+.timer h3{
+    font-size: 20px;
+    text-align: center;
+}

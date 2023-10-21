@@ -1,0 +1,18 @@
+.page-header *{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.page-header h1,h3{
+    font-family: 'Poppins', sans-serif;
+}
+
+.page-header h1{
+    font-size: 84px;
+    line-height: 1.1;
+}
+
+.page-header h3{
+    text-align: center;
+}
